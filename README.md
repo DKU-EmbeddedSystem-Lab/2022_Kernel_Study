@@ -79,12 +79,12 @@
     </tr>
     <tr>
         <td rowspan="2"><B>4주(1월 25일)</td>
-        <td><B>리눅스 커널 디바이스 드라이버 실습 1</td>
+        <td><B>리눅스 커널 Device Driver 실습 1</td>
         <td>홍길동</td>
         <td><B>실제 실습 내용</td>
     </tr>
     <tr>
-        <td><B>리눅스 커널 디바이스 드라이버 실습 2</td>
+        <td><B>리눅스 커널 Device Driver 실습 2</td>
         <td>홍길동</td>
         <td><B>실제 실습 내용</td>
     </tr>
