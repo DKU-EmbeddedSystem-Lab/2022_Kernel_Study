@@ -122,7 +122,7 @@
         <td>FEMU 논문</td>
     </tr>
         <tr>
-        <td rowspan="2"><B>8주(2월 28일,월요일)</td>
+        <td rowspan="2"><B>8주(2월 28일,월)</td>
         <td><B>FEMU 실습 1</td>
         <td>홍길동</td>
         <td>FEMU 논문+@</td>
