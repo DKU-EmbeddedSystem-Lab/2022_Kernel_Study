@@ -37,7 +37,7 @@
 
 * *Study Plan*
 
-    <table>
+    <table border="0" align="center" width="800">
     <tr>
         <td><B>날짜</td>
         <td><B>내용</td>
