@@ -22,6 +22,8 @@
     - [Device Driver](https://hyeyoo.com/85)<br>
     - [File System, VFS](https://linux-kernel-labs.github.io/refs/heads/master/labs/filesystems_part1.html)<br>
     - [FEMU git (FAST'18)](https://github.com/ucare-uchicago/FEMU)
+    - Huaicheng Li, et al. <B>[The CASE of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator](https://www.usenix.org/conference/fast18/presentation/li)</B>, 16th USENIX Conference on File and Storage Technologies (FAST'18)
+
 
 <br>
 
@@ -29,7 +31,6 @@
     - [1] 백승재, 최종무 저 『<B>리눅스 커널 내부구조</B>』, 아티오
     - [2] Robert M. Love , 『<B>Linux Kernel Development</B>』(리눅스 커널 심층분석), 에이콘
     - [3] Daniel P. Bovet , 『<B>Understanding the Linux Kernel</B>』(리눅스 커널의 이해), O'REILLY(한빛미디어)
-    - [4] Huaicheng Li, et al. <B>[The CASE of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator](https://www.usenix.org/conference/fast18/presentation/li)</B>, 16th USENIX Conference on File and Storage Technologies (FAST'18)
 
 <br>
 
@@ -37,8 +38,8 @@
 
 * *Study Plan*
 
-    <table border="0" align="center" width="800">
-    <tr>
+    <table border="0" align="center" width=100%>
+    <tr align="center">
         <td><B>날짜</td>
         <td><B>내용</td>
         <td><B>발표자</td>
