@@ -44,6 +44,8 @@
 * *Study Goal*
 
 * *Study Plan*
+    
+    __[#주차]_[내용]_[발표자]_PPT_Template.pptx 파일 참고__
 
     <table border="0" align="center" width=100%>
     <tr align="center">
