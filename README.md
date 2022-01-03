@@ -15,11 +15,11 @@
         - Main interest : *Device Driver*
             - 김한얼
         - Main interest : *FileSystem*
-            - 강정현, 이정원
+            - 이정원
         - Main interest : *FEMU*
             - 송인호, 한예진, 최민국
         - Hasnt decided yet
-            - 이용운(좌오꾸와쒼), 신수환, 김산, 박종기
+            - 이용운(좌오꾸와쒼), 신수환, 박종기
 
 <br>
 
