@@ -142,4 +142,11 @@
         <td>홍길동</td>
         <td>FEMU 논문+@</td>
     </tr>
-    </table>
+    </table>+
+
+## License
+(Linux Kernel Module Programming Guide License)
+The Linux Kernel Module Programming Guide is a free book; you may reproduce and/or modify it under the terms of the [Open Software License](https://opensource.org/licenses/OSL-3.0).
+Use of this work is governed by a copyleft license that can be found in the `LICENSE` file.
+
+The complementary sample code is licensed under GNU GPL version 2, as same as Linux kernel.
