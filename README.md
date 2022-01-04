@@ -66,31 +66,36 @@
         <td>리눅스 커널 내부구조 7장</td>
     </tr>
     <tr>
-        <td rowspan="2">2주(1월 11일)</td>
+        <td rowspan="3">2주(1월 11일)</td>
         <td>리눅스 커널 태스크 관리</td>
         <td>이용운<br>(좌오꾸와쒼)</td>
         <td>리눅스 커널 내부구조 3장</td>
     </tr>
     <tr>
-        <td>리눅스 커널 모듈 프로그래밍 실습</td>
-        <td>-</td>
-        <td>실제 리눅스 실습 내용,<br> 2명이 발표해도 좋을듯</td>
+        <td>리눅스 커널 태스크 관리 - 런 큐와 스케쥴링</td>
+        <td>박종기</td>
+        <td>리눅스 커널 내부구조 3장</td>
+    </tr>
+    <tr>
+        <td>리눅스 커널 파일 시스템</td>
+        <td>이정원</td>
+        <td>리눅스 커널 내부구조 5장</td>
     </tr>
     <tr>
         <td rowspan="3">3주(1월 18일)</td>
-        <td>리눅스 커널 메모리 관리</td>
-        <td>-</td>
-        <td>리눅스 커널 내부구조 4장</td>
-    </tr>
-    <tr>
         <td>리눅스 커널 디바이스 드라이버(Character)</td>
         <td>김한얼</td>
-        <td>리눅스 커널 내부구조 8장</td>
+        <td>리눅스 커널 내부구조 8장</td>    
     </tr>
-        <tr>
+    <tr>
         <td>리눅스 커널 디바이스 드라이버(Block)</td>
         <td>최민국</td>
         <td>리눅스 커널 내부구조 8장</td>
+    </tr>
+    <tr>
+        <td>리눅스 커널 모듈 프로그래밍 실습</td>
+        <td>-</td>
+        <td>실제 리눅스 실습 내용,<br> 2명이 발표해도 좋을듯</td>
     </tr>
     <tr>
         <td rowspan="2"><B>4주(1월 25일)</td>
@@ -105,9 +110,10 @@
     </tr>
         <tr>
         <td rowspan="2">5주(2월 8일)</td>
-        <td>리눅스 커널 파일 시스템</td>
-        <td>이정원</td>
-        <td>리눅스 커널 내부구조 5장</td>
+        <td>리눅스 커널 메모리 관리</td>
+        <td>-</td>
+        <td>리눅스 커널 내부구조 4장</td>
+
     </tr>
     <tr>
         <td>리눅스 커널 인터럽트</td>
@@ -147,7 +153,7 @@
         <td>송인호</td>
         <td>FEMU 논문+@</td>
     </tr>
-    </table>+
+    </table>
 
 ## License
 (Linux Kernel Module Programming Guide License)
