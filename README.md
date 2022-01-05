@@ -105,13 +105,13 @@
     </tr>
     <tr>
         <td><B>리눅스 커널 Device Driver 실습 2</td>
-        <td>최민국</td>
+        <td>-</td>
         <td><B>실제 실습 내용</td>
     </tr>
         <tr>
         <td rowspan="2">5주(2월 8일)</td>
         <td>리눅스 커널 인터럽트</td>
-        <td>-</td>
+        <td>최민국</td>
         <td>리눅스 커널 내부구조 6장</td>
 
     </tr>
