@@ -11,7 +11,7 @@
 <br>
 
 * *Members*
-    - *Professor* 최 종무<br>
+    - *Professor* 최 종무, 유 시환<br>
         - Main interest : *Device Driver*
             - 김한얼
         - Main interest : *FileSystem*
