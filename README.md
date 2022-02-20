@@ -55,7 +55,7 @@
         <td><B>참고자료</td>
     </tr>
     <tr>
-        <td rowspan="2">1주(1월 4일)</td>
+        <td rowspan="2">1주<br>(1월 4일)</td>
         <td>리눅스 커널 전체 구조</td>
         <td>한예진</td>
         <td>리눅스 커널 내부구조 2장</td>
@@ -66,7 +66,7 @@
         <td>리눅스 커널 내부구조 7장</td>
     </tr>
     <tr>
-        <td rowspan="3">2주(1월 11일)</td>
+        <td rowspan="3">2주<br>(1월 11일)</td>
         <td>리눅스 커널 태스크 관리</td>
         <td>이용운<br>(좌오꾸와쒼)</td>
         <td>리눅스 커널 내부구조 3장</td>
@@ -82,7 +82,7 @@
         <td>리눅스 커널 내부구조 5장</td>
     </tr>
     <tr>
-        <td rowspan="2">3주(1월 18일)</td>
+        <td rowspan="2">3주<br>(1월 18일)</td>
         <td>리눅스 커널 메모리 관리</td>
         <td>최민국</td>
         <td>리눅스 커널 내부구조 4장</td>  
@@ -93,7 +93,7 @@
         <td>리눅스 커널 내부구조 8장</td>  
     </tr>
     <tr>
-        <td rowspan="2"><B>4주(1월 25일)</td>
+        <td rowspan="2"><B>4주<br>(1월 25일)</td>
         <td><B>리눅스 커널 Device Driver 실습 1</td>
         <td>김한얼</td>
         <td><B>실제 실습 내용</td>
@@ -104,7 +104,7 @@
         <td>실제 리눅스 실습 내용,<br> 2명이 발표해도 좋을듯</td>
     </tr>
     <tr>
-        <td rowspan="2">5주<del>(2월 8일)</del>(2월 15일)</td>
+        <td rowspan="2">5주<br><del>(2월 8일)</del>(2월 15일)</td>
         <td>리눅스 커널 인터럽트</td>
         <td>신수환</td>
         <td>리눅스 커널 내부구조 6장</td>
@@ -115,7 +115,7 @@
         <td><B>실제 실습 내용</td>
     </tr>
     <tr>
-        <td rowspan="2"><B>6주(2월 15일)</td>
+        <td rowspan="2"><B>6주<br>(2월 15일)</td>
         <td><B>리눅스 커널 파일 시스템 실습 1</td>
         <td>이정원</td>
         <td><B>실제 실습 내용</td>
@@ -126,7 +126,7 @@
         <td><del><B>실제 실습 내용</td>
     </tr>
     <tr>
-        <td rowspan="3">7주(2월 22일)</td>
+        <td rowspan="3">7주<br>(2월 22일)</td>
         <td> 플래시 메모리 특성과 FTL</td>
         <td>이용운<br>(좌오꾸와쒼)</td>
         <td>플래시 메모리/FTL 논문</td>
@@ -142,7 +142,7 @@
         <td>FEMU 논문</td>
     </tr>
         <tr>
-        <td rowspan="2"><B>8주(2월 28일,월 13:00시)</td>
+        <td rowspan="2"><B>8주<br>(2월 28일,월 13:00시)</td>
         <td><B>FEMU 실습 1</td>
         <td>한예진</td>
         <td>FEMU 논문+@</td>
